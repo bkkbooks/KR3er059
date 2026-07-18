@@ -24,11 +24,11 @@ assets:
   - {seq: 4, filename: KR3er059_004.yaml, hash: 'sha256:e043e7d83a240365b30d7e2a8d3c7214514bbfa913f53a1f68830381dbb1e6d5'}
   - {seq: 0, filename: KR3er059_000.yaml, hash: 'sha256:acaf565fae7edfcba42534065d94e23b915cdb638cb36bf35a92910f8710b511'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er059_000.markers.yaml, hash: 'sha256:74a1807da72fd0e8a8e629df8b4199bdf6a210ca2bfb007dc26132d62d1f4298'}
-  - {seq: 1, role: markers, filename: assets/KR3er059_001.markers.yaml, hash: 'sha256:6bb7a5ee062bfa29b4273d24dc9f209da318bb00b7e683092fe50797d86c5de1'}
+  - {seq: 0, role: markers, filename: assets/KR3er059_000.markers.yaml, hash: 'sha256:066205c1f9054bae61d1dcb7bde54678cc0d7753e4d4439a58ec24cc83abafa2'}
+  - {seq: 1, role: markers, filename: assets/KR3er059_001.markers.yaml, hash: 'sha256:fa59263651e994b04a54f6080036aafedb84031919bdeb7836d7beefceb94b50'}
   - {seq: 2, role: markers, filename: assets/KR3er059_002.markers.yaml, hash: 'sha256:b359a1fe21d3e1eb4a63804a84e6b890692972ed97ddef2287408f587f9829c4'}
-  - {seq: 3, role: markers, filename: assets/KR3er059_003.markers.yaml, hash: 'sha256:412e17710ac9f12093a90628cd447cab4502c4d01eafce5f7552d8d74c7c1645'}
-  - {seq: 4, role: markers, filename: assets/KR3er059_004.markers.yaml, hash: 'sha256:2cec3b3136318aa155ead5ccb83bbbe6567843d239d2d3691ff98d01ab2c343c'}
+  - {seq: 3, role: markers, filename: assets/KR3er059_003.markers.yaml, hash: 'sha256:33c619e75eb9600e3dca77bf0e9a7a3b5dbddc95bbaa06646726b7e2672e2837'}
+  - {seq: 4, role: markers, filename: assets/KR3er059_004.markers.yaml, hash: 'sha256:15f48ee809609074a463a1c33643dbdd1555f6e7021ee8cda3a5f7dbb69c459e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -950,7 +950,7 @@ table_of_contents:
   label: 張飛疇運氣不足憑說
   type: section
   level: 3
-hash: sha256:1af5c27e9f80ea02fb4c9ae8125c68bd729b07730f7ba1de49af6a8425f16367
+hash: sha256:0f9a968dacfc58b1eb7dc08edd6222aa98f6f71167a6abb5130d9f22aa5cd3b7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
